@@ -5,6 +5,8 @@ This module simulates the sequential scanning behavior of QMS instruments,
 which causes temporal misalignment in multi-element signals.
 """
 
+from __future__ import annotations
+
 import numpy as np
 import pandas as pd
 

@@ -6,6 +6,7 @@ which can utilize future information and typically achieves high accuracy.
 """
 
 from __future__ import annotations
+
 from dataclasses import dataclass
 import numpy as np
 import pandas as pd
